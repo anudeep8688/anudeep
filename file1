@@ -4,4 +4,4 @@ gi diff
 git push origin -d branch name
 git pull --rebase
 git revert cid
-we lost our data
+I LOST MY DATA
